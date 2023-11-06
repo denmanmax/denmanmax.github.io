@@ -1,0 +1,41 @@
+/*Copyright Maxwell Dabbs*/
+
+html { background-color: #CFCFCF; }
+
+body { font-family: serif; }
+
+main { border: 1px solid black; }
+
+header { background-color: #000; color: #FFF;  padding-top: 0px; text-align: center;}
+
+footer { background-color: #EFEFEF; border: 1px solid black; font-family: "Georgia, Times New Roman, serif"; text-align: center; font-style: italic; font-size: 75%; padding: 20px; }
+
+nav { font-weight: bold; padding: 10px; width: auto; background-color: #000; }
+
+nav a {text-decoration: none; }
+
+h1 { color: #101010; margin-bottom: 0; font-family: "Georgia, Times New Roman, serif"; margin-top: 5px; font-size: 2em; text-align: center; }
+h2 a { text-align: center; color: #101010; display: inline-block;  font-family: "Georgia, Times New Roman, serif"; margin: 7.5px auto 0 auto; font-size: 1em; }
+
+h3 { font-family: "Georgia, Times New Roman, serif"; }
+
+#wrapper { background-color: #000; margin-left: auto; margin-right: auto; width: 80%; min-width: 1000px; max-width: 2048px; }
+
+main { padding-top: 0; padding-right: 20px; padding-left: 20px; padding-bottom: 20px; display: block; background-color: #EFEFEF; padding-left: 30px; }
+p img { display: block; margin: auto; }
+
+nav ul { list-style: none; margin: 0; padding-left: 0; font-size: 1.2em; text-align: center; }
+
+nav li { display: inline; padding: 1.5em; }
+
+nav a:link { color: #FFF; }
+
+nav a:visited { color: #C0C0C0; }
+
+nav a:hover { color: #778899; }
+
+figure { fwidth: 30%; text-indent: 0; margin: 0em; }
+
+ul.skills { padding-top: 0; }
+
+header, main, nav, footer, figure, figcaption, aside, section, article { display: block; }
